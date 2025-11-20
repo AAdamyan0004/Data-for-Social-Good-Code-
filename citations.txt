@@ -1,0 +1,30 @@
+In our program, the only sources we used were:
+1. Mr. Aiello
+2. chatGPT
+
+Let me explain. Our program is about writing the information about your sick pet(type,gender,symptoms) and our program will predict what disease or sickness your pet may have.
+I managed to integrate kaggle data and inputs but there was one issue I encountered. I did now know how to find the specific disease based on the users provided information. I first asked
+Mr Aiello for help, he gave me a sample version but with diets. I analyzed it and wrote my own version for my program 
+
+
+At first this was my initial code:
+
+if(t == animalTypeInput && g == genderInput && s == symptomInput){
+    return ("Using that information, we believe that your pet may have: " + diseases[i]);
+}
+
+It did not work and at first I did not understand why, but I then asked chatgpt.
+
+Here is what chatgpt gave me:
+
+if(t.equals(animalTypeInput.toLowerCase()) && g.equals(genderInput.toLowerCase()) && s.equals(symptomInput.toLowerCase())){
+    return "Using that information, we believe that your pet may have: " + diseases[i];
+}
+
+I learned that I had to use the java .equals() method because == only checks if they are the same object. And if I use the .toLowerCase(), it will help me compare strings easier.
+My idea was correct but my execution was wrong. 
+
+11/18/25 Used ChatGPT to find unique values in animal_type, symptom, diseases, and symptom2 txt files to save time and use in DataRunner
+
+11/19/25 Used ChatGPT to final check the code for logic errors and potentially wrong outcomes
+Told me that everything was up to standards but need to be more specific for the multiline comment regarding the findDisease method
