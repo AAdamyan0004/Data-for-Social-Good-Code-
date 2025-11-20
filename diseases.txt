@@ -1,0 +1,431 @@
+Parvovirus
+Upper Respiratory Infection
+Foot and Mouth Disease
+Gastroenteritis
+Fungal Infection
+Equine Influenza
+Lyme Disease
+Intestinal Parasites
+Canine Distemper
+Mastitis
+Panleukopenia
+Kennel Cough
+Panleukopenia
+Strangles
+Bovine Respiratory Disease
+Canine Parvovirus
+Ringworm
+Tick-Borne Disease
+Equine Influenza
+Upper Respiratory Infection
+Mastitis
+Equine Influenza
+Kennel Cough
+Panleukopenia
+Bovine Respiratory Disease
+Arthritis
+Feline Herpesvirus
+Equine Rhinopneumonitis
+Parvovirus
+Feline Leukemia
+Mastitis
+Heartworm Disease
+Feline Infectious Peritonitis
+Equine Viral Arteritis
+Johne's Disease
+Canine Distemper
+Conjunctivitis
+Equine Piroplasmosis
+Salmonellosis
+Chronic Bronchitis
+Feline Upper Respiratory Infection
+Parvovirus
+Feline Upper Respiratory Infection
+Equine Arthritis
+Bovine Respiratory Disease
+Gastroenteritis
+Feline Herpesvirus
+Equine Infectious Anemia
+Bovine Viral Diarrhea
+Kennel Cough
+Pancreatitis
+Equine Pneumonia
+Mastitis
+Canine Parvovirus
+Feline Calicivirus
+Laminitis
+Cryptosporidiosis
+Bordetella Infection
+Inflammatory Bowel Disease
+Degenerative Joint Disease
+Bovine Leukemia Virus
+Allergic Rhinitis
+Gastroenteritis
+Equine Leptospirosis
+Bovine Coccidiosis
+Gastroenteritis
+Feline Renal Disease
+Equine Influenza
+Bovine Respiratory Syncytial Virus
+Canine Distemper
+Feline Viral Rhinotracheitis
+Kennel Cough
+Feline Herpesvirus
+Equine Laminitis
+Bovine Pneumonia
+Gastroenteritis
+Feline Panleukopenia
+Equine Influenza
+Johne's Disease
+Parvovirus
+Feline Calicivirus
+Equine Arthritis
+Salmonellosis
+Canine Flu
+Pancreatitis
+Equine Infectious Anemia
+Respiratory Syncytial Virus
+Gastroenteritis
+Feline Herpesvirus
+Equine Cushing's Disease
+Tuberculosis
+Pancreatitis
+Hyperthyroidism
+Equine Arthritis
+Coccidiosis
+Canine Hepatitis
+Upper Respiratory Infection
+Equine Encephalitis
+Bovine Influenza
+Gastroenteritis
+Feline Calicivirus
+Gastroenteritis
+Feline Upper Respiratory Infection
+Equine Arthritis
+Johne's Disease
+Snuffles
+Pneumonia
+Coccidiosis
+Porcine Epidemic Diarrhea
+Parvovirus
+Feline Calicivirus
+Equine Laminitis
+Bovine Respiratory Disease
+Enteritis
+Scrapie
+Caprine Arthritis Encephalitis
+Swine Influenza
+Pancreatitis
+Feline Viral Rhinotracheitis
+Equine Osteoarthritis
+Bovine Johne's Disease
+Gastrointestinal Stasis
+Pasteurellosis
+Giardiasis
+Canine Parvovirus
+Feline Respiratory Disease Complex
+Equine Lyme Disease
+Bovine Tuberculosis
+Rabbit Viral Hemorrhagic Disease
+Foot-and-Mouth Disease
+Coccidiosis
+Actinobacillus Pleuropneumonia
+Canine Hepatitis
+Feline Rhinotracheitis
+Equine Infectious Anemia
+Bovine Respiratory Disease
+Respiratory Infection
+Scrapie
+Caprine Respiratory Disease
+Swine Dysentery
+Kennel Cough
+Feline Respiratory Infection
+Equine Osteoarthritis
+Bovine Tuberculosis
+Upper Respiratory Infection
+Footrot
+Gastrointestinal Infection
+Actinobacillus Pleuropneumonia
+Canine Parvovirus
+Feline Infectious Peritonitis
+Equine Metabolic Syndrome
+Bovine Johne's Disease
+Pasteurellosis
+Canine Parvovirus
+Feline Calicivirus
+Equine Influenza
+Bovine Respiratory Disease
+Rabbit Hemorrhagic Disease
+Blue Tongue Virus
+Caprine Arthritis Encephalitis
+Swine Influenza
+Canine Distemper
+Feline Leukemia Virus
+Equine Infectious Anemia
+Bovine Tuberculosis
+Myxomatosis
+Caseous Lymphadenitis
+Caprine Pleuropneumonia
+Actinobacillus Pleuropneumonia
+Leptospirosis
+Feline Herpesvirus
+Equine Laminitis
+Bovine Johne's Disease
+Rabbit Syphilis
+Chlamydia in Sheep
+Caprine Respiratory Disease
+Actinobacillus Suis
+Canine Leptospirosis
+Feline Chlamydia
+Equine West Nile Virus
+Bovine Viral Diarrhea
+Myxomatosis
+Canine Parvovirus
+Feline Infectious Peritonitis
+Equine Rhinopneumonitis
+Bovine Respiratory Syncytial Virus
+Rabbit Syphilis
+Scrapie
+Caprine Pleuropneumonia
+Porcine Epidemic Diarrhea
+Canine Distemper
+Feline Leukemia Virus
+Equine Herpesvirus
+Bovine Tuberculosis
+Myxomatosis
+Chlamydia in Sheep
+Caprine Arthritis Encephalitis
+Swine Influenza
+Canine Leptospirosis
+Feline Calicivirus
+Equine Influenza
+Bovine Respiratory Disease
+Rabbit Hemorrhagic Disease
+Foot and Mouth Disease
+Caprine Pleuropneumonia
+Porcine Reproductive and Respiratory Syndrome
+Kennel Cough
+Feline Infectious Peritonitis
+Equine Herpesvirus
+Bovine Tuberculosis
+Canine Influenza
+Feline Calicivirus
+Equine Protozoal Myeloencephalitis
+Bovine Tuberculosis
+Rabbit Hemorrhagic Disease
+Foot and Mouth Disease
+Caprine Arthritis Encephalitis
+Porcine Respiratory Disease Complex
+Canine Parvovirus
+Feline Infectious Peritonitis
+Equine Influenza
+Bovine Respiratory Syncytial Virus
+Myxomatosis
+Scrapie
+Caprine Pleuropneumonia
+Porcine Epidemic Diarrhea
+Canine Distemper
+Feline Leukemia Virus
+Equine Rhinopneumonitis
+Bovine Viral Diarrhea
+Rabbit Syphilis
+Blue Tongue
+Caprine Pleuropneumonia
+Porcine Respiratory Disease Complex
+Canine Distemper
+Feline Coronavirus
+Equine Influenza
+Bovine Tuberculosis
+Parvovirus
+Feline Upper Respiratory Infection
+Equine Herpesvirus
+Bovine Respiratory Disease
+Rabbit Viral Hemorrhagic Disease
+Contagious Ecthyma
+Pneumonia
+Swine Influenza
+Canine Hepatitis
+Feline Rhinotracheitis
+Equine Encephalomyelitis
+Bovine Parainfluenza
+Pasteurellosis
+Bluetongue Virus
+Caprine Viral Arthritis
+Actinobacillus Pleuropneumonia
+Canine Leptospirosis
+Feline Asthma
+Equine Influenza Virus
+Bovine Tuberculosis
+Rabbit Calicivirus
+Maedi-Visna
+Caseous Lymphadenitis
+Swine Erysipelas
+Kennel Cough
+Feline Herpesvirus
+Equine Infectious Anemia
+Bovine Viral Diarrhea
+Myxomatosis
+Blue Tongue Disease
+Caprine Arthritis Encephalitis
+Actinobacillus Pleuropneumonia
+Canine Parvovirus
+Feline Asthma
+Equine Leptospirosis
+Bovine Tuberculosis
+Pasteurellosis
+Contagious Abortion
+Pneumonia
+Swine Dysentery
+Canine Leptospirosis
+Feline Respiratory Disease Complex
+Equine Herpesvirus
+Bovine Tuberculosis
+Rabbit Hemorrhagic Disease
+Foot-and-Mouth Disease
+Caprine Arthritis
+Swine Flu
+Canine Heartworm Disease
+Feline Leukemia
+Equine Influenza
+Kennel Cough
+Feline Infectious Peritonitis
+Equine Encephalomyelitis
+Bovine Respiratory Disease Complex
+Rabbit Viral Hemorrhagic Disease
+Scrapie
+Pneumonia
+Swine Fever
+Canine Parvovirus
+Feline Panleukopenia
+Equine Protozoal Myeloencephalitis
+Johne's Disease
+Ringworm
+Bluetongue
+Foot-and-Mouth Disease
+Actinobacillus Pleuropneumonia
+Distemper
+Feline Leukemia Virus
+Equine Influenza
+Bovine Johne's Disease
+Pneumonia
+Contagious Ecthyma
+Caprine Arthritis Encephalitis
+Swine Influenza
+Parvovirus
+Feline Chlamydiosis
+West Nile Virus
+Bovine Tuberculosis
+Kennel Cough
+Feline Leukemia Virus
+Equine Influenza
+Bovine Respiratory Disease
+Pasteurellosis
+Foot-and-Mouth Disease
+Caprine Arthritis Encephalitis
+Swine Influenza
+Canine Distemper
+Feline Infectious Peritonitis
+Equine Encephalomyelitis
+Bovine Tuberculosis
+Myxomatosis
+Scrapie
+Pneumonia
+Actinobacillus Pleuropneumonia
+Canine Parvovirus
+Feline Panleukopenia
+Equine Protozoal Myeloencephalitis
+Bovine Johne's Disease
+Rabbit Viral Hemorrhagic Disease
+Bluetongue
+Foot-and-Mouth Disease
+Swine Erysipelas
+Canine Cough
+Equine Infectious Anemia
+Bovine Respiratory Disease Complex
+Respiratory Infection
+Blue Tongue Virus
+Caprine Arthritis Encephalitis Virus
+African Swine Fever
+Parvovirus
+Feline Infectious Peritonitis
+West Nile Virus
+Bovine Tuberculosis
+Viral Hemorrhagic Disease
+Scrapie Disease
+Pneumonia
+Swine Influenza
+Distemper
+Feline Leukemia Virus
+Equine Encephalitis
+Bovine Respiratory Disease Complex
+Rabbit Hemorrhagic Disease
+Bluetongue
+Caprine Arthritis Encephalitis Virus
+Swine Erysipelas
+Leptospirosis
+Feline Immunodeficiency Virus
+Equine Infectious Anemia
+Bovine Respiratory Disease
+Scrapie
+Caprine Arthritis Encephalitis
+Swine Influenza
+Equine Herpesvirus
+Bovine Tuberculosis
+Rabbit Hemorrhagic Disease
+Bluetongue Virus
+Caprine Arthritis Encephalitis
+African Swine Fever
+Canine Distemper
+Feline Herpesvirus
+Equine Infectious Anemia
+Bovine Respiratory Disease
+Rabbit Viral Hemorrhagic Disease
+Scrapie Disease
+Caprine Respiratory Disease
+Swine Fever
+Canine Leptospirosis
+Feline Asthma
+Equine Laminitis
+Bovine Mastitis
+Bovine Respiratory Disease
+Scrapie
+Caprine Arthritis Encephalitis
+Swine Flu
+Bluetongue
+Goat Pox
+Porcine Epidemic Diarrhea Virus
+Equine Herpesvirus
+Bovine Respiratory Disease
+Caprine Arthritis Encephalitis
+Swine Influenza
+Canine Infectious Hepatitis
+Feline Panleukopenia Virus
+Equine Metabolic Syndrome
+Bovine Mastitis
+Bovine Respiratory Disease
+Bluetongue
+Caprine Arthritis Encephalitis
+Swine Influenza
+Bovine Tuberculosis
+Scrapie
+Caprine Viral Arthritis
+Porcine Circovirus Disease
+Caprine Respiratory Disease
+Swine Fever
+Scrapie
+Foot-and-Mouth Disease
+Canine Parvovirus
+Canine Parvovirus
+Feline Calicivirus
+Equine Infectious Anemia
+Equine Herpesvirus
+Parvovirus
+Upper Respiratory Infection
+Foot and Mouth Disease
+Gastroenteritis
+Fungal Infection
+Equine Influenza
+Lyme Disease
+Intestinal Parasites
+Canine Distemper
+Mastitis
