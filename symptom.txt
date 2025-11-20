@@ -1,0 +1,431 @@
+Fever
+Coughing
+Fever
+Diarrhea
+Lethargy
+Coughing
+Lameness
+Vomiting
+Labored Breathing
+Lethargy
+Lethargy
+Lethargy
+Vomiting
+Lameness
+Fever
+Lethargy
+Skin Lesions
+Lameness
+Coughing
+Lethargy
+Decreased Milk Yield
+Lethargy
+Coughing
+Lethargy
+Fever
+Lameness
+Coughing
+Coughing
+Vomiting
+Appetite Loss
+Lethargy
+Lethargy
+Appetite Loss
+Nasal Discharge
+Appetite Loss
+Fever
+Appetite Loss
+Lameness
+Diarrhea
+Coughing
+Eye Discharge
+Lethargy
+Appetite Loss
+Lameness
+Coughing
+Vomiting
+Sneezing
+Lameness
+Lethargy
+Coughing
+Vomiting
+Appetite Loss
+Fever
+Lethargy
+Eye Discharge
+Lameness
+Diarrhea
+Coughing
+Vomiting
+Lameness
+Fever
+Sneezing
+Vomiting
+Lethargy
+Appetite Loss
+Vomiting
+Lethargy
+Coughing
+Fever
+Lethargy
+Coughing
+Coughing
+Sneezing
+Lameness
+Coughing
+Vomiting
+Lethargy
+Fever
+Loss of Appetite
+Vomiting
+Coughing
+Swollen Joints
+Diarrhea
+Coughing
+Vomiting
+Swollen Joints
+Fever
+Vomiting
+Eye Discharge
+Weight Loss
+Weight Loss
+Vomiting
+Lethargy
+Lameness
+Diarrhea
+Lethargy
+Nasal Discharge
+Weight Loss
+Nasal Discharge
+Vomiting
+Eye Discharge
+Vomiting
+Sneezing
+Lameness
+Weight Loss
+Sneezing
+Coughing
+Diarrhea
+Vomiting
+Lethargy
+Coughing
+Fever
+Coughing
+Diarrhea
+Weight Loss
+Fever
+Sneezing
+Vomiting
+Eye Discharge
+Lameness
+Diarrhea
+Lethargy
+Coughing
+Diarrhea
+Lethargy
+Nasal Discharge
+Lameness
+Coughing
+Sneezing
+Weight Loss
+Diarrhea
+Coughing
+Lethargy
+Nasal Discharge
+Lameness
+Labored Breathing
+Sneezing
+Weight Loss
+Nasal Discharge
+Vomiting
+Coughing
+Eye Discharge
+Lameness
+Coughing
+Sneezing
+Lethargy
+Diarrhea
+Fever
+Vomiting
+Vomiting
+Swollen Joints
+Appetite Loss
+Nasal Discharge
+Lethargy
+Nasal Discharge
+Lameness
+Coughing
+Nasal Discharge
+Lameness
+Vomiting
+Coughing
+Vomiting
+Nasal Discharge
+Lameness
+Lethargy
+Nasal Discharge
+Swollen Joints
+Fever
+Coughing
+Lethargy
+Eye Discharge
+Lameness
+Loss of Appetite
+Nasal Discharge
+Lethargy
+Vomiting
+Vomiting
+Vomiting
+Coughing
+Lameness
+Coughing
+Sneezing
+Lethargy
+Lethargy
+Lameness
+Coughing
+Sneezing
+Coughing
+Vomiting
+Coughing
+Lethargy
+Nasal Discharge
+Lameness
+Coughing
+Sneezing
+Swollen Joints
+Vomiting
+Coughing
+Lethargy
+Nasal Discharge
+Lameness
+Coughing
+Sneezing
+Coughing
+Vomiting
+Coughing
+Lethargy
+Coughing
+Lameness
+Coughing
+Coughing
+Nasal Discharge
+Lameness
+Coughing
+Sneezing
+Coughing
+Vomiting
+Coughing
+Lethargy
+Nasal Discharge
+Lameness
+Coughing
+Sneezing
+Swollen Joints
+Vomiting
+Coughing
+Lethargy
+Nasal Discharge
+Lameness
+Coughing
+Sneezing
+Swollen Joints
+Vomiting
+Coughing
+Coughing
+Nasal Discharge
+Lameness
+Coughing
+Vomiting
+Coughing
+Lameness
+Coughing
+Sneezing
+Coughing
+Vomiting
+Coughing
+Lethargy
+Nasal Discharge
+Lameness
+Coughing
+Sneezing
+Swollen Joints
+Vomiting
+Coughing
+Lethargy
+Nasal Discharge
+Lameness
+Coughing
+Sneezing
+Coughing
+Vomiting
+Coughing
+Coughing
+Nasal Discharge
+Lameness
+Coughing
+Sneezing
+Coughing
+Vomiting
+Coughing
+Lethargy
+Nasal Discharge
+Lameness
+Coughing
+Sneezing
+Coughing
+Vomiting
+Coughing
+Lethargy
+Coughing
+Lameness
+Coughing
+Sneezing
+Coughing
+Vomiting
+Coughing
+Lethargy
+Coughing
+Lameness
+Coughing
+Vomiting
+Lameness
+Coughing
+Sneezing
+Coughing
+Vomiting
+Coughing
+Vomiting
+Nasal Discharge
+Lameness
+Coughing
+Sneezing
+Coughing
+Vomiting
+Coughing
+Lethargy
+Coughing
+Lameness
+Coughing
+Sneezing
+Coughing
+Vomiting
+Coughing
+Lethargy
+Coughing
+Lameness
+Coughing
+Coughing
+Vomiting
+Lameness
+Coughing
+Sneezing
+Coughing
+Vomiting
+Coughing
+Lethargy
+Coughing
+Lameness
+Coughing
+Sneezing
+Coughing
+Vomiting
+Coughing
+Lethargy
+Vomiting
+Lameness
+Coughing
+Sneezing
+Coughing
+Vomiting
+Coughing
+Coughing
+Lameness
+Coughing
+Sneezing
+Coughing
+Vomiting
+Coughing
+Lethargy
+Coughing
+Lameness
+Coughing
+Sneezing
+Coughing
+Vomiting
+Coughing
+Lethargy
+Coughing
+Lameness
+Coughing
+Sneezing
+Coughing
+Vomiting
+Coughing
+Lethargy
+Coughing
+Lameness
+Coughing
+Coughing
+Vomiting
+Coughing
+Lameness
+Coughing
+Sneezing
+Coughing
+Vomiting
+Coughing
+Lethargy
+Coughing
+Lameness
+Coughing
+Sneezing
+Coughing
+Vomiting
+Coughing
+Lethargy
+Coughing
+Lameness
+Coughing
+Coughing
+Coughing
+Vomiting
+Coughing
+Coughing
+Vomiting
+Coughing
+Lameness
+Coughing
+Vomiting
+Coughing
+Lethargy
+Coughing
+Lameness
+Coughing
+Coughing
+Coughing
+Vomiting
+Coughing
+Coughing
+Coughing
+Vomiting
+Coughing
+Vomiting
+Coughing
+Coughing
+Coughing
+Coughing
+Vomiting
+Coughing
+Lameness
+Lameness
+Fever
+Coughing
+Fever
+Diarrhea
+Lethargy
+Coughing
+Lameness
+Vomiting
+Labored Breathing
+Lethargy
