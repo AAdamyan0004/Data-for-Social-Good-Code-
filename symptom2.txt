@@ -1,0 +1,431 @@
+Lethargy
+Sneezing
+Nasal Discharge
+Vomiting
+Appetite Loss
+Labored Breathing
+Fever
+Appetite Loss
+Coughing
+Decreased Milk Yield
+Eye Discharge
+Appetite Loss
+Diarrhea
+Fever
+Lethargy
+Vomiting
+Appetite Loss
+Fever
+Nasal Discharge
+Eye Discharge
+Fever
+Appetite Loss
+Nasal Discharge
+Vomiting
+Decreased Milk Yield
+Swelling
+Nasal Discharge
+Nasal Discharge
+Diarrhea
+Weight Loss
+Fever
+Labored Breathing
+Vomiting
+Coughing
+Diarrhea
+Vomiting
+Vomiting
+Fever
+Lethargy
+Labored Breathing
+Nasal Discharge
+Vomiting
+Coughing
+Fever
+Nasal Discharge
+Appetite Loss
+Eye Discharge
+Fever
+Diarrhea
+Labored Breathing
+Diarrhea
+Lethargy
+Coughing
+Vomiting
+Nasal Discharge
+Swollen Joints
+Lethargy
+Labored Breathing
+Appetite Loss
+Swollen Joints
+Diarrhea
+Eye Discharge
+Appetite Loss
+Fever
+Lethargy
+Diarrhea
+Appetite Loss
+Labored Breathing
+Nasal Discharge
+Loss of Appetite
+Nasal Discharge
+Labored Breathing
+Eye Discharge
+Fever
+Nasal Discharge
+Diarrhea
+Vomiting
+Nasal Discharge
+Weight Loss
+Diarrhea
+Sneezing
+Lameness
+Dehydration
+Labored Breathing
+Diarrhea
+Lameness
+Nasal Discharge
+Loss of Appetite
+Nasal Discharge
+Loss of Appetite
+Reduced Milk Production
+Diarrhea
+Vomiting
+Swollen Joints
+Dehydration
+Loss of Appetite
+Eye Discharge
+Swollen Joints
+Coughing
+Lethargy
+Lethargy
+Diarrhea
+Nasal Discharge
+Swollen Joints
+Reduced Milk Production
+Nasal Discharge
+Labored Breathing
+Dehydration
+Diarrhea
+Vomiting
+Sneezing
+Swollen Joints
+Labored Breathing
+Loss of Appetite
+Lethargy
+Lethargy
+Coughing
+Diarrhea
+Nasal Discharge
+Weight Loss
+Dehydration
+Appetite Loss
+Labored Breathing
+Dehydration
+Vomiting
+Eye Discharge
+Swollen Joints
+Nasal Discharge
+Nasal Discharge
+Reduced Wool Production
+Dehydration
+Nasal Discharge
+Vomiting
+Eye Discharge
+Swollen Joints
+Nasal Discharge
+Eye Discharge
+Lethargy
+Fever
+Diarrhea
+Labored Breathing
+Nasal Discharge
+Swollen Joints
+Nasal Discharge
+Nasal Discharge
+Swollen Joints
+Loss of Appetite
+Coughing
+Diarrhea
+Diarrhea
+Lameness
+Weight Loss
+Lethargy
+Vomiting
+Coughing
+Loss of Appetite
+Nasal Discharge
+Sneezing
+Swollen Joints
+Diarrhea
+Nasal Discharge
+Lethargy
+Lethargy
+Coughing
+Coughing
+Loss of Appetite
+Loss of Appetite
+Vomiting
+Nasal Discharge
+Vomiting
+Nasal Discharge
+Appetite Loss
+Fever
+Loss of Appetite
+Nasal Discharge
+Fever
+Fever
+Lethargy
+Loss of Appetite
+Loss of Appetite
+Nasal Discharge
+Nasal Discharge
+Loss of Appetite
+Vomiting
+Coughing
+Fever
+Nasal Discharge
+Lethargy
+Fever
+Lethargy
+Loss of Appetite
+Coughing
+Loss of Appetite
+Lethargy
+Loss of Appetite
+Loss of Appetite
+Fever
+Nasal Discharge
+Vomiting
+Coughing
+Loss of Appetite
+Fever
+Loss of Appetite
+Loss of Appetite
+Diarrhea
+Loss of Appetite
+Coughing
+Loss of Appetite
+Loss of Appetite
+Lethargy
+Loss of Appetite
+Coughing
+Loss of Appetite
+Loss of Appetite
+Loss of Appetite
+Lethargy
+Diarrhea
+Loss of Appetite
+Vomiting
+Coughing
+Loss of Appetite
+Loss of Appetite
+Loss of Appetite
+Coughing
+Loss of Appetite
+Loss of Appetite
+Vomiting
+Coughing
+Swollen Legs
+Loss of Appetite
+Loss of Appetite
+Coughing
+Loss of Appetite
+Loss of Appetite
+Loss of Appetite
+Loss of Appetite
+Swollen Legs
+Loss of Appetite
+Diarrhea
+Loss of Appetite
+Swollen Legs
+Loss of Appetite
+Nasal Discharge
+Loss of Appetite
+Loss of Appetite
+Loss of Appetite
+Vomiting
+Loss of Appetite
+Swollen Legs
+Loss of Appetite
+Nasal Discharge
+Coughing
+Loss of Appetite
+Loss of Appetite
+Vomiting
+Loss of Appetite
+Swollen Legs
+Loss of Appetite
+Loss of Appetite
+Loss of Appetite
+Diarrhea
+Loss of Appetite
+Loss of Appetite
+Loss of Appetite
+Loss of Appetite
+Loss of Appetite
+Nasal Discharge
+Loss of Appetite
+Diarrhea
+Loss of Appetite
+Vomiting
+Loss of Appetite
+Swollen Legs
+Loss of Appetite
+Loss of Appetite
+Loss of Appetite
+Diarrhea
+Loss of Appetite
+Vomiting
+Loss of Appetite
+Loss of Appetite
+Loss of Appetite
+Loss of Appetite
+Loss of Appetite
+Diarrhea
+Loss of Appetite
+Vomiting
+Loss of Appetite
+Loss of Appetite
+Loss of Appetite
+Loss of Appetite
+Swollen Legs
+Loss of Appetite
+Nasal Discharge
+Loss of Appetite
+Diarrhea
+Loss of Appetite
+Loss of Appetite
+Loss of Appetite
+Swollen Legs
+Loss of Appetite
+Loss of Appetite
+Loss of Appetite
+Diarrhea
+Loss of Appetite
+Vomiting
+Loss of Appetite
+Loss of Appetite
+Loss of Appetite
+Loss of Appetite
+Loss of Appetite
+Diarrhea
+Loss of Appetite
+Vomiting
+Loss of Appetite
+Loss of Appetite
+Loss of Appetite
+Loss of Appetite
+Loss of Appetite
+Swollen Legs
+Loss of Appetite
+Nasal Discharge
+Loss of Appetite
+Diarrhea
+Loss of Appetite
+Vomiting
+Loss of Appetite
+Swollen Legs
+Loss of Appetite
+Nasal Discharge
+Loss of Appetite
+Diarrhea
+Loss of Appetite
+Vomiting
+Loss of Appetite
+Swollen Legs
+Loss of Appetite
+Loss of Appetite
+Loss of Appetite
+Diarrhea
+Loss of Appetite
+Lethargy
+Swollen Legs
+Loss of Appetite
+Loss of Appetite
+Loss of Appetite
+Diarrhea
+Loss of Appetite
+Vomiting
+Loss of Appetite
+Swollen Legs
+Loss of Appetite
+Loss of Appetite
+Loss of Appetite
+Diarrhea
+Loss of Appetite
+Vomiting
+Loss of Appetite
+Swollen Legs
+Loss of Appetite
+Nasal Discharge
+Loss of Appetite
+Diarrhea
+Loss of Appetite
+Vomiting
+Loss of Appetite
+Swollen Legs
+Loss of Appetite
+Loss of Appetite
+Diarrhea
+Loss of Appetite
+Swollen Legs
+Loss of Appetite
+Loss of Appetite
+Loss of Appetite
+Diarrhea
+Loss of Appetite
+Vomiting
+Loss of Appetite
+Swollen Legs
+Loss of Appetite
+Loss of Appetite
+Loss of Appetite
+Diarrhea
+Loss of Appetite
+Vomiting
+Loss of Appetite
+Swollen Legs
+Loss of Appetite
+Loss of Appetite
+Loss of Appetite
+Diarrhea
+Loss of Appetite
+Loss of Appetite
+Diarrhea
+Loss of Appetite
+Swollen Legs
+Loss of Appetite
+Diarrhea
+Loss of Appetite
+Vomiting
+Loss of Appetite
+Swollen Legs
+Loss of Appetite
+Loss of Appetite
+Loss of Appetite
+Diarrhea
+Loss of Appetite
+Loss of Appetite
+Loss of Appetite
+Diarrhea
+Loss of Appetite
+Diarrhea
+Loss of Appetite
+Loss of Appetite
+Loss of Appetite
+Lethargy
+Loss of Appetite
+Sneezing
+Loss of Appetite
+Swollen Legs
+Lethargy
+Sneezing
+Nasal Discharge
+Vomiting
+Appetite Loss
+Labored Breathing
+Fever
+Appetite Loss
+Coughing
+Decreased Milk Yield
